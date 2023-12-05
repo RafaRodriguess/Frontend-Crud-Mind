@@ -12,8 +12,8 @@ Todos os cursos criados serão ativos, caso queira desativar ou deletar, basta c
 
 - Baixar o Backend e inicar o servidor
 - Usuário para teste:
-- Email: admin@admin
-- Senha: 123
+  Email: admin@admin
+  Senha: 123
 
 ### Para iniciar o projeto
 
