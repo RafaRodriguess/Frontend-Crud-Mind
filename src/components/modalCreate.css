@@ -1,0 +1,22 @@
+.btnUpload input[type="file"] {
+  display: none;
+}
+
+label {
+  padding: 10px;
+  width: 200px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.5s;
+  border: 1px solid rgb(199, 198, 198);
+}
+
+label:hover {
+  background-color: #ffffff;
+  border: 1px solid #0693ff;
+  color: #0693ff;
+}
+.imgDefault {
+  margin-left: 20px;
+}

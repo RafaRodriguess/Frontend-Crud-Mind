@@ -1,0 +1,38 @@
+.dashboard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  overflow: auto;
+}
+.inputSearch {
+  width: 400px;
+  margin: auto;
+}
+.btnExit {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.btnCreate {
+  padding-inline: 20%;
+  margin-top: 20px;
+}
+
+.tableDashboard {
+  padding-inline: 20%;
+  margin-top: 20px;
+  min-height: 500px;
+  .pagination {
+    .ant-pagination-item-link {
+      color: white;
+    }
+    .ant-pagination-item {
+      background-color: white;
+    }
+    .ant-pagination-item:hover {
+      background-color: rgb(190, 190, 190);
+    }
+  }
+}
